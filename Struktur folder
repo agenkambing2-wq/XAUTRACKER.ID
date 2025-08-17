@@ -1,0 +1,6 @@
+xautracker-app/
+├── flutter_app/          → Aplikasi Flutter
+├── ai_model/             → Python AI
+├── backend/              → Node.js API
+├── docs/                 → Pitch deck, proposal
+└── assets/               → Logo, gambar
